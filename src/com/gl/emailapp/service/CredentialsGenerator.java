@@ -54,9 +54,6 @@ public class CredentialsGenerator {
 				+ numbers + specialCharacters;
 		
 		Random randomObj = new Random();			
-
-//		int randomIndexForNumber = new Random().nextInt(10);
-//		numbers.charAt(randomIndexForNumber);
 		
 		for (int i=0; i < 8; i++) {
 
